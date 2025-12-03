@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+.kaggle_comp1/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts / large files (optional)
+*.pth
+*.pt
+*.bin
+
+# Kaggle data folders if you don't want to track raw data
+data/
