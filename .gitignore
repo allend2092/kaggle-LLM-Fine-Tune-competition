@@ -21,3 +21,4 @@ Thumbs.db
 
 # Kaggle data folders if you don't want to track raw data
 data/
+notebooks/*.csv
